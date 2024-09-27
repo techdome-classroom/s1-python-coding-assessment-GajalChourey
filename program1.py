@@ -41,7 +41,7 @@ dispatch1 = [
     ["L", "L", "W", "W", "W"],
     ["W", "W", "W", "W", "W"],
 ]
-print(solution.getTotalIsles(dispatch1))  # Output: 1
+print(solution.getTotalIsles(dispatch1))  
 
 dispatch2 = [
     ["L", "L", "W", "W", "W"],
@@ -49,4 +49,4 @@ dispatch2 = [
     ["W", "W", "L", "W", "W"],
     ["W", "W", "W", "L", "L"],
 ]
-print(solution.getTotalIsles(dispatch2))  # Output: 3
+print(solution.getTotalIsles(dispatch2))  
